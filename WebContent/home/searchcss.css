@@ -1,0 +1,89 @@
+.my_fs_col2 {
+	float: left;
+	width: 740px;
+	margin-right: 10px;
+}
+
+.goods {
+	float: left;
+	margin: 20px
+}
+
+.mygoodslist {
+	margin-bottom: 20px;
+	height: auto;
+	position: relative;
+	z-index: 1;
+	_zoom: 1;
+}
+
+.goodsitem {
+	float: left;
+	margin-left: 20px;
+	cursor: pointer;
+}
+
+.goodsinfo {
+	width: 220px;
+	height: 400px;
+}
+
+.priceinfo {
+	position: relative;
+	line-height: 22px;
+	height: 22px;
+	overflow: hidden;
+	width: 100%;
+	margin: 0 0 8px;
+}
+
+.priceinfo strong {
+	float: left;
+	margin-right: 10px;
+	color: #e4393c;
+	font-size: 20px;
+}
+
+em, i, u {
+	font-style: normal;
+}
+
+.priceinfo em {
+	font-size: 16px;
+}
+
+.nameinfo {
+	height: 40px;
+}
+.care-cart{
+	float:right;
+	width:120px;
+}
+
+.stock {
+	float: left;
+}
+
+.cart {
+	float: right;
+}
+.J_focus{
+	float:left;
+}
+.p-focus a i{
+    position: absolute;
+    display: block;
+    font-style: normal;
+    left: 4px;
+    top: 3px;
+    width: 18px;
+    height: 18px;
+    background: url(./imgs/search.ele.png) no-repeat 9999px 9999px;
+        background-position-x: 9999px;
+        background-position-y: 9999px;
+    transition: background-position .15s ease-in-out;
+}
+em, i, u {
+    font-style: normal;
+}
+

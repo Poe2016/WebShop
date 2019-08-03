@@ -1,0 +1,35 @@
+.checkout-tit {
+    height: 42px;
+    line-height: 42px;
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+    overflow: hidden;
+}
+.tit-txt {
+    float: left;
+}
+.checkout-steps {
+    background-color: #fff;
+    padding: 0 20px;
+    border: 1px solid #f0f0f0;
+}
+.checkout-steps .step-tit {
+    line-height: 40px;
+    height: 40px;
+    color: #333;
+}
+.checkout-steps .step-cont {
+    margin-bottom: 10px;
+}
+.hr {
+    border-bottom: 1px solid #e6e6e6;
+    height: 0;
+    margin-bottom: 10px;
+}
+.lt{
+	float:left;
+}
+.rt{
+	float:right;
+}
+

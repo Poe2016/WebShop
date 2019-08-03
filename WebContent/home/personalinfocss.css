@@ -1,0 +1,42 @@
+.personform{
+	margin-top: 100px;
+	margin-left: 200px;
+}
+.personform .itemp {
+
+    display: inline-block;
+    display: block;
+    margin-bottom: 20px;
+    line-height: 30px;
+    width:300px;
+    
+
+}
+
+.personform .itemp span.label {
+    
+    height: 18px;
+    line-height: 18px;
+    padding: 6px 0;
+    width: 100px;
+    text-align: right;
+}
+.fl {
+    float: right;
+    width:200px;
+}
+.personform .itxt, .personform .text {
+    height: 18px;
+    width: 127px;
+    padding: 5px 23px 5px 5px;
+    line-height: 18px;
+border: 1px solid #ccc;
+padding: 5px;
+float: none;
+font-family: "Microsoft YaHei";
+font-size: 12px;
+}
+.personform input{
+	width:198px;
+	float:right;
+}
